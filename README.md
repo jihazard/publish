@@ -13,6 +13,6 @@
 
   * dummy image
  ~~~html
-              //로컬  / 사이즈 /박스 색상 /글자색상
+              //로컬/사이즈/박스색상/글자색상/텍스트 
     <img src="http://placehold.it/800x600/#ff0000/ffffff?text=samplebox" alt="">
  ~~~
